@@ -1,2 +1,2 @@
 # MLCourse
-Exercises from Machine Learning course by Andrew Ng
+Personal solution to exercises in the ML course.
